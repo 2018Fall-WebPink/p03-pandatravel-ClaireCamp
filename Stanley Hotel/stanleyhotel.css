@@ -1,0 +1,22 @@
+/*
+*Claire Campbell
+*11/6/18
+*This webpage is about the haunted Stanley Hotel in Estes Park, Colorado.
+*/
+
+/*The universal selector*/
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color:skyblue;
+    color: darkblue
+}
+#stanleyhotel {width:300px; height:200px} 
+#grandstaircase {width:300px; height:200px}
+#room217 {width:300px; height:400px}
+#concerthall {width:300px; height:200px}
